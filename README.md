@@ -13,8 +13,7 @@ What is the average job satisfaction score across different departments?
 Which age groups are most affected by attrition?
 How does the attrition rate vary between male and female employees?
 
-## Dashboard
-<a href="https://github.com/Rjrameez67/Work-Force-Attrition-Analysis-Project/blob/main/Screenshot%202025-02-23%20185333.png">Dashboard</a>
+
 
 ## Insights Gained from the Dashboard
 Your dashboard provides multiple data-driven insights:
@@ -36,3 +35,7 @@ Your dashboard provides multiple data-driven insights:
 4️⃣ Gender-Based Attrition Trends
 ✅ Female employees have a slightly higher attrition rate than male employees.
 ✅ This could indicate workplace challenges, work-life balance issues, or fewer career advancement opportunities for women.
+## Dashboard
+
+![Screenshot 2025-02-23 185333](https://github.com/user-attachments/assets/9313f8b6-7308-43bc-b232-974c3ad82765)
+
